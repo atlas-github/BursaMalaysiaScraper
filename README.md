@@ -1,1 +1,1 @@
-# GlassdoorSalaryScraper
+# BursaMalaysiaScraper
